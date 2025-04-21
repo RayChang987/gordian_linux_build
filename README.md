@@ -20,3 +20,8 @@ This project is based on the source code of Gordian Placement ([GitHub Repositor
     cmake ..
     make
     ```
+
+3. Run and Execution
+    ```sh
+    ./gordian_linux_build
+    ```
